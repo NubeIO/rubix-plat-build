@@ -7,7 +7,6 @@ After=network.target
 Type=simple
 User=<user>
 WorkingDirectory=<working_dir>
-ExecStartPre=/usr/bin/node modify-distribution.js
 ExecStart=/usr/bin/npm run prod:start --prod -- --datadir <data_dir> --port <port>
 Restart=always
 RestartSec=10
