@@ -1,0 +1,16 @@
+{
+  "name": "rubix-plat",
+  "description": "Rubix Platform UI",
+  "version": "1.3.2",
+  "author": "NubeIO",
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "scripts": {
+    "prod:start": "node app.js",
+    "pm2:start": "npm run pm2:delete && NODE_ENV=production pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop ecosystem.config.js"
+  },
+  "dependencies": {}
+}
