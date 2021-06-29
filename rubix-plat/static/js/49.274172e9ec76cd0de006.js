@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{CFgp:function(t,e,n){"use strict";n.r(e);var r=n("uzYq"),o={mounted:function(){"modbus-networks"!=this.$router.currentRoute.name&&this.getNetworks()},methods:{getNetworks:function(){var t=this;r.a.get("point-server/network?with_children=true").then((function(e){t.$store.commit("changeMbNetworksData",e)}))}}},s=n("psIG"),u=Object(s.a)(o,(function(){var t=this.$createElement;return(this._self._c||t)("router-view")}),[],!1,null,null,null);e.default=u.exports}}]);
-//# sourceMappingURL=49.274172e9ec76cd0de006.js.map
