@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Common/gridItemsCounter.vue"],"names":[],"mappings":"AAaA,yCACE,e","file":"static/css/3.30716591210745101cd4.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n.grid-item-counter span{\n  font-size: 12px;\n}\n"],"sourceRoot":""}
