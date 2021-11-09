@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/components/Iframe.vue"],"names":[],"mappings":"AAoCA,wBACE,0BACA,wBACA,W","file":"static/css/54.e6736aafda90a2bd9380.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\niframe {\n  height: calc(100vh - 12px);\n  width: calc(100% - 12px);\n  float: left;\n}\n"],"sourceRoot":""}

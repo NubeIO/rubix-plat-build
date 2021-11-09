@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[57],{"+LRK":function(e,n,t){"use strict";t.r(n);var r={},s=t("psIG"),u=Object(s.a)(r,(function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("router-view")],1)}),[],!1,null,null,null);n.default=u.exports}}]);
-//# sourceMappingURL=57.a4cd1d7070decd8bf5c9.js.map
