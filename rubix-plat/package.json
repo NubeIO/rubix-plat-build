@@ -1,7 +1,7 @@
 {
   "name": "rubix-plat",
   "description": "Rubix Platform UI",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "NubeIO",
   "engines": {
     "node": ">=12",
