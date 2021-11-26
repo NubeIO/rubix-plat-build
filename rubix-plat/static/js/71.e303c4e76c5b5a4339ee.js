@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[71],{C5KM:function(t,e,n){"use strict";n.r(e);var o=n("uzYq"),r={mounted:function(){"bacnet-networks"!=this.$router.currentRoute.name&&this.getNetworks()},methods:{getNetworks:function(){var t=this;o.a.get("bacnet_master/networks").then((function(e){t.$store.commit("changeBmNetworksData",e.networks)}))}}},s=n("psIG"),u=Object(s.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("router-view")}),[],!1,null,null,null);e.default=u.exports}}]);
+//# sourceMappingURL=71.e303c4e76c5b5a4339ee.js.map
