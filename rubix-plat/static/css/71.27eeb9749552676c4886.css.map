@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/components/CropImage.vue"],"names":[],"mappings":"AAsBA,aACE,SACA,mCACQ,2B","file":"static/css/71.27eeb9749552676c4886.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.jcrop-stage {\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n"],"sourceRoot":""}
