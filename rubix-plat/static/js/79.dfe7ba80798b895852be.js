@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{"Gc0+":function(e,n,t){"use strict";t.r(n);var s={name:"streams-page"},r=t("psIG"),a=Object(r.a)(s,(function(){var e=this.$createElement;return(this._self._c||e)("router-view")}),[],!1,null,null,null);n.default=a.exports}}]);
-//# sourceMappingURL=79.dfe7ba80798b895852be.js.map
